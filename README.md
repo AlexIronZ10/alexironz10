@@ -1,5 +1,5 @@
 ## Hi, I'm Alejandro! 👋
-Mechanical Engineer by logic, Automation Expert by passion.
+Mechanical Engineer by logic, Software Developer by passion.
 
 I bridge the gap between legacy Windows applications and modern productivity. With over a decade of experience in the AutoHotkey ecosystem, I specialize in creating stable, high-performance automation tools that save businesses hundreds of manual hours.
 
